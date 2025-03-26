@@ -31,7 +31,7 @@ void AJRPGCombatManager::StartCombat()
 
 void AJRPGCombatManager::EndCombat()
 {
-    // Cleanup after combat
+    //cleanup after combat
 }
 
 void AJRPGCombatManager::HandleTurn()
