@@ -8,7 +8,7 @@ UENUM(BlueprintType)
 enum class ECharacterState : uint8
 {
     ECS_Exploration UMETA(DisplayName = "Exploration"),
-    ECS_Combat UMETA(DisplayName = "Combat")        //enum to determine combat/exploration
+    ECS_Combat UMETA(DisplayName = "Combat")        //to determine combat/exploration
 };
 
 UCLASS()
