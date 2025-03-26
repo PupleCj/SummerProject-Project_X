@@ -27,7 +27,7 @@ public:
     virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
 private:
-    void MoveForward(float Value);
+    void MoveForward(float Value);        //basic movement settings
     void MoveRight(float Value);
     void TurnAtRate(float Rate);
     void LookUpAtRate(float Rate);
