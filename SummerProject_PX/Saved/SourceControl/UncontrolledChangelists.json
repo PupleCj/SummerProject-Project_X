@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/GitHub/SummerProject-Project_X/SummerProject_PX/Content/_Cj/Enemys/Base_Enemy.uasset",
+				"C:/GitHub/SummerProject-Project_X/SummerProject_PX/Content/_Cj/Procedural_Dungeon/Dungeon_Generator.uasset",
+				"C:/GitHub/SummerProject-Project_X/SummerProject_PX/Content/_Cj/Enemys/Ai_Destination.uasset",
+				"C:/GitHub/SummerProject-Project_X/SummerProject_PX/Content/_Cj/Procedural_Dungeon/Dungeon_Rooms/Dungeon_Stair_Room_1.uasset",
 				"C:/Documents/Unreal Projects/SummerProject-Project_X/SummerProject_PX/Content/_Teale/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Documents/Unreal Projects/SummerProject-Project_X/SummerProject_PX/Content/_Teale/Blueprints/HackAndSlash/BP_HaSCharacter.uasset",
 				"C:/Documents/Unreal Projects/SummerProject-Project_X/SummerProject_PX/Content/_Teale/GrruzamSwordPack/Maps/Overview_BuiltData.uasset",
