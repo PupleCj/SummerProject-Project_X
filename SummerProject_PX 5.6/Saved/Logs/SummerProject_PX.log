@@ -4076,3 +4076,791 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.15-12.33.58:910][606]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.07.15-12.33.58:910][606]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.07.15-12.33.58:910][606]AssetCheck: /Game/_Cj/Enemys/Base_Enemy Validating asset
+[2025.07.15-12.36.08:635][ 91]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4001.055420
+[2025.07.15-12.36.08:797][101]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.15-12.36.08:797][101]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4001.205566, Update Interval: 337.532288
+[2025.07.15-12.38.54:312][789]LogUObjectHash: Compacting FUObjectHashTables data took   6.61ms
+[2025.07.15-12.38.54:536][789]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.15-12.38.54:655][789]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Cj/Enemys/Base_Enemy] ([2] browsable assets)...
+[2025.07.15-12.38.54:936][789]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Cj/Enemys/Base_Enemy.Base_Enemy]
+[2025.07.15-12.38.54:936][789]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Cj/Enemys/Base_Enemy]
+[2025.07.15-12.38.55:007][789]LogSavePackage: Moving output files for package: /Game/_Cj/Enemys/Base_Enemy
+[2025.07.15-12.38.55:009][789]LogSavePackage: Moving '../../../../../../Users/barne/Documents/GitHub/SummerProject-Project_X/SummerProject_PX 5.6/Saved/Base_Enemy85D2DDD345386A0FE259CC87FF28C265.tmp' to '../../../../../../Users/barne/Documents/GitHub/SummerProject-Project_X/SummerProject_PX 5.6/Content/_Cj/Enemys/Base_Enemy.uasset'
+[2025.07.15-12.38.55:030][789]LogFileHelpers: InternalPromptForCheckoutAndSave took 493.566 ms (total: 6.49 sec)
+[2025.07.15-12.38.55:136][789]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.15-12.38.55:136][789]LogContentValidation: Enabled validators:
+[2025.07.15-12.38.55:137][789]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.15-12.38.55:137][789]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.15-12.38.55:137][789]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.15-12.38.55:137][789]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.15-12.38.55:137][789]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.15-12.38.55:137][789]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.15-12.38.55:140][789]AssetCheck: /Game/_Cj/Enemys/Base_Enemy Validating asset
+[2025.07.15-12.39.00:051][ 50]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.15-12.39.00:074][ 50]LogContentBundle: [ThirdPersonMap(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.07.15-12.39.00:075][ 50]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.07.15-12.39.00:094][ 50]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 18.777 ms (total: 87.850 ms)
+[2025.07.15-12.39.00:105][ 50]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.15-12.39.00:138][ 50]LogPlayLevel: Display: Creating online subsystem for client :Context_43
+[2025.07.15-12.39.00:151][ 50]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2025.07.15-12.39.00:204][ 51]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.07.15-12.39.00:254][ 51]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.07.15-12.39.00:256][ 51]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.314 ms (total: 13.681 ms)
+[2025.07.15-12.39.00:256][ 51]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051088s)
+[2025.07.15-12.39.00:257][ 51]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.051925s)
+[2025.07.15-12.39.00:295][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2025.07.15-12.39.00:306][ 51]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.07.15-12.39.00:373][ 51]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.07.15-12.39.00:373][ 51]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.07.15-12.39.00:373][ 51]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.07.15-12.39.00:373][ 51]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.07.15-12.39.00:381][ 51]LogWorldPartition: Display: WorldPartition initialize took 8.191 ms (total: 2.08 sec)
+[2025.07.15-12.39.00:384][ 51]LogPlayLevel: PIE: World Init took: (0.079387s)
+[2025.07.15-12.39.00:389][ 51]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2025.07.15-12.39.00:390][ 51]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.15-12.39.00:390][ 51]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.15-12.39.00:390][ 51]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.15-12.39.00:390][ 51]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.15-12.39.00:390][ 51]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.15-12.39.00:390][ 51]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.15-12.39.00:390][ 51]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.15-12.39.00:391][ 51]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.15-12.39.00:394][ 51]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.15-12.39.00:394][ 51]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.15-12.39.00:394][ 51]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.15-12.39.00:400][ 51]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.15-12.39.00:497][ 51]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.07.15-12.39.00:503][ 51]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.15-12.39.00:503][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.15-12.39.00:505][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.15-12.39.00:509][ 51]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2025.07.15-12.39.00:509][ 51]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2025.07.15-12.39.00:511][ 51]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2025.07.15-12.39.00:511][ 51]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2025.07.15-12.39.00:512][ 51]LogInit: FAudioDevice initialized with ID 19.
+[2025.07.15-12.39.00:512][ 51]LogAudio: Display: Audio Device (ID: 19) registered with world 'ThirdPersonMap'.
+[2025.07.15-12.39.00:514][ 51]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2025.07.15-12.39.00:559][ 51]LogLoad: Game class is 'GM_HackAndSlash_C'
+[2025.07.15-12.39.00:575][ 51]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.07.15-13.39.00
+[2025.07.15-12.39.00:579][ 51]LogWorld: Bringing up level for play took: 0.016134
+[2025.07.15-12.39.00:637][ 51]LogBlueprintUserMessages: [Dungeon_Generator_C_UAID_C87F54EB7F73115B02_1740853584] 13333
+[2025.07.15-12.39.00:660][ 51]PIE: Server logged in
+[2025.07.15-12.39.00:663][ 51]PIE: Play in editor total start time 0.593 seconds.
+[2025.07.15-12.39.01:350][ 78]LogBlueprintUserMessages: [Dungeon_Generator_C_UAID_C87F54EB7F73115B02_1740853584] Running Timer
+[2025.07.15-12.39.01:512][ 86]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.39.01:512][ 86]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.39.01:512][ 86]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.39.01:513][ 86]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.39.01:514][ 86]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.39.01:514][ 86]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.39.01:514][ 86]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.39.01:515][ 86]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.39.01:515][ 86]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.39.01:515][ 86]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.39.01:515][ 86]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.39.01:515][ 86]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.39.01:518][ 86]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.39.01:518][ 86]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.39.01:518][ 86]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.39.01:518][ 86]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.39.01:518][ 86]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.39.01:518][ 86]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.39.01:864][ 86]LogBlueprintUserMessages: [Dungeon_Generator_C_UAID_C87F54EB7F73115B02_1740853584] DUNGEON COMPLETE
+[2025.07.15-12.39.04:214][174]LogCharacterMovement: Base_Enemy_C_4 is stuck and failed to move! Velocity: X=-593.20 Y=90.10 Z=0.00 Location: X=-1998.79 Y=3808.12 Z=138.74 Normal: X=0.00 Y=0.00 Z=-1.00 PenetrationDepth:7.044 Actor:Door_C_9 Component:Cube BoneName:None (0 other events since notify)
+[2025.07.15-12.39.05:288][215]LogCharacterMovement: Base_Enemy_C_3 is stuck and failed to move! Velocity: X=-45.79 Y=-151.77 Z=0.00 Location: X=1093.67 Y=1045.66 Z=138.04 Normal: X=0.00 Y=0.91 Z=-0.42 PenetrationDepth:0.166 Actor:Door_C_2 Component:Cube BoneName:None (0 other events since notify)
+[2025.07.15-12.39.06:623][266]LogCharacterMovement: Base_Enemy_C_12 is stuck and failed to move! Velocity: X=-78.12 Y=262.24 Z=0.00 Location: X=806.44 Y=4964.47 Z=138.37 Normal: X=-0.00 Y=-0.85 Z=-0.53 PenetrationDepth:9.820 Actor:Door_C_4 Component:Cube BoneName:None (0 other events since notify)
+[2025.07.15-12.39.09:530][373]LogCharacterMovement: Base_Enemy_C_41 is stuck and failed to move! Velocity: X=134.64 Y=147.89 Z=0.00 Location: X=920.70 Y=970.26 Z=138.78 Normal: X=0.00 Y=-0.63 Z=-0.77 PenetrationDepth:10.681 Actor:Door_C_2 Component:Cube BoneName:None (0 other events since notify)
+[2025.07.15-12.39.14:272][553]LogCharacterMovement: Base_Enemy_C_38 is stuck and failed to move! Velocity: X=-6.14 Y=85.25 Z=0.00 Location: X=983.58 Y=3715.56 Z=138.08 Normal: X=-0.08 Y=-0.98 Z=-0.20 PenetrationDepth:24.180 Actor:BP_HaSCharacter_C_0 Component:Sword BoneName:None (0 other events since notify)
+[2025.07.15-12.39.14:368][557]LogCharacterMovement: Base_Enemy_C_22 is stuck and failed to move! Velocity: X=120.28 Y=-92.33 Z=0.00 Location: X=870.73 Y=3840.00 Z=138.88 Normal: X=-0.47 Y=0.18 Z=-0.87 PenetrationDepth:11.400 Actor:BP_HaSCharacter_C_0 Component:Sword BoneName:None (0 other events since notify)
+[2025.07.15-12.39.16:058][622]LogCharacterMovement: Base_Enemy_C_4 is stuck and failed to move! Velocity: X=572.33 Y=-180.12 Z=0.00 Location: X=-2026.06 Y=4154.64 Z=138.11 Normal: X=-0.33 Y=0.00 Z=-0.94 PenetrationDepth:0.807 Actor:Door_C_9 Component:Cube BoneName:None (1 other events since notify)
+[2025.07.15-12.39.20:831][806]LogCharacterMovement: Base_Enemy_C_22 is stuck and failed to move! Velocity: X=-40.67 Y=-37.32 Z=0.00 Location: X=1039.13 Y=3254.51 Z=140.15 Normal: X=0.23 Y=-0.97 Z=-0.00 PenetrationDepth:6.246 Actor:BP_HaSCharacter_C_0 Component:Sword BoneName:None (3 other events since notify)
+[2025.07.15-12.39.22:476][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.15-12.39.22:477][868]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.07.15-12.39.22:479][868]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.07.15-12.39.22:487][868]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.07.15-12.39.22:498][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.15-12.39.22:500][868]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.07.15-12.39.22:518][868]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.15-12.39.22:529][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.15-12.39.22:571][868]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.15-12.39.22:573][868]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2025.07.15-12.39.22:575][868]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=4
+[2025.07.15-12.39.22:579][868]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=2
+[2025.07.15-12.39.22:589][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.15-12.39.22:627][868]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2025.07.15-12.39.22:671][869]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2025.07.15-12.41.59:582][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2025.07.15-12.41.59:729][951]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.15-12.41.59:810][951]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Teale/Blueprints/HackAndSlash/BP_HaSCharacter] ([2] browsable assets)...
+[2025.07.15-12.41.59:925][951]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Teale/Blueprints/HackAndSlash/BP_HaSCharacter.BP_HaSCharacter]
+[2025.07.15-12.41.59:925][951]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Teale/Blueprints/HackAndSlash/BP_HaSCharacter]
+[2025.07.15-12.42.00:004][951]LogSavePackage: Moving output files for package: /Game/_Teale/Blueprints/HackAndSlash/BP_HaSCharacter
+[2025.07.15-12.42.00:004][951]LogSavePackage: Moving '../../../../../../Users/barne/Documents/GitHub/SummerProject-Project_X/SummerProject_PX 5.6/Saved/BP_HaSCharacterA0F4CEB34EF629200422C78CCA951D7B.tmp' to '../../../../../../Users/barne/Documents/GitHub/SummerProject-Project_X/SummerProject_PX 5.6/Content/_Teale/Blueprints/HackAndSlash/BP_HaSCharacter.uasset'
+[2025.07.15-12.42.00:019][951]LogFileHelpers: InternalPromptForCheckoutAndSave took 291.347 ms (total: 6.78 sec)
+[2025.07.15-12.42.00:112][951]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.15-12.42.00:112][951]LogContentValidation: Enabled validators:
+[2025.07.15-12.42.00:112][951]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.15-12.42.00:112][951]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.15-12.42.00:112][951]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.15-12.42.00:112][951]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.15-12.42.00:112][951]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.15-12.42.00:112][951]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.15-12.42.00:112][951]AssetCheck: /Game/_Teale/Blueprints/HackAndSlash/BP_HaSCharacter Validating asset
+[2025.07.15-12.42.05:268][240]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UGameplayStatics::ApplyDamage' [Element not found.]
+[2025.07.15-12.42.19:600][989]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4372.048340
+[2025.07.15-12.42.19:766][999]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.15-12.42.19:766][999]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4372.198730, Update Interval: 311.312592
+[2025.07.15-12.42.24:878][288]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2025.07.15-12.42.25:004][288]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.15-12.42.25:088][288]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Teale/Blueprints/HackAndSlash/BP_HaSCharacter] ([2] browsable assets)...
+[2025.07.15-12.42.25:179][288]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Teale/Blueprints/HackAndSlash/BP_HaSCharacter.BP_HaSCharacter]
+[2025.07.15-12.42.25:179][288]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Teale/Blueprints/HackAndSlash/BP_HaSCharacter]
+[2025.07.15-12.42.25:246][288]LogSavePackage: Moving output files for package: /Game/_Teale/Blueprints/HackAndSlash/BP_HaSCharacter
+[2025.07.15-12.42.25:247][288]LogSavePackage: Moving '../../../../../../Users/barne/Documents/GitHub/SummerProject-Project_X/SummerProject_PX 5.6/Saved/BP_HaSCharacter58781EA94212D859461A4FBA723E41FF.tmp' to '../../../../../../Users/barne/Documents/GitHub/SummerProject-Project_X/SummerProject_PX 5.6/Content/_Teale/Blueprints/HackAndSlash/BP_HaSCharacter.uasset'
+[2025.07.15-12.42.25:260][288]LogFileHelpers: InternalPromptForCheckoutAndSave took 256.515 ms (total: 7.03 sec)
+[2025.07.15-12.42.25:356][288]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.15-12.42.25:356][288]LogContentValidation: Enabled validators:
+[2025.07.15-12.42.25:356][288]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.15-12.42.25:356][288]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.15-12.42.25:356][288]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.15-12.42.25:356][288]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.15-12.42.25:356][288]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.15-12.42.25:356][288]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.15-12.42.25:356][288]AssetCheck: /Game/_Teale/Blueprints/HackAndSlash/BP_HaSCharacter Validating asset
+[2025.07.15-12.42.55:577][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.07.15-12.42.55:706][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.15-12.42.55:791][ 60]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Teale/Blueprints/HackAndSlash/BP_HaSCharacter] ([2] browsable assets)...
+[2025.07.15-12.42.55:870][ 60]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Teale/Blueprints/HackAndSlash/BP_HaSCharacter.BP_HaSCharacter]
+[2025.07.15-12.42.55:870][ 60]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Teale/Blueprints/HackAndSlash/BP_HaSCharacter]
+[2025.07.15-12.42.55:938][ 60]LogSavePackage: Moving output files for package: /Game/_Teale/Blueprints/HackAndSlash/BP_HaSCharacter
+[2025.07.15-12.42.55:938][ 60]LogSavePackage: Moving '../../../../../../Users/barne/Documents/GitHub/SummerProject-Project_X/SummerProject_PX 5.6/Saved/BP_HaSCharacterAC2B35F74D90B07D52760EADC5315CCF.tmp' to '../../../../../../Users/barne/Documents/GitHub/SummerProject-Project_X/SummerProject_PX 5.6/Content/_Teale/Blueprints/HackAndSlash/BP_HaSCharacter.uasset'
+[2025.07.15-12.42.55:949][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave took 243.402 ms (total: 7.28 sec)
+[2025.07.15-12.42.56:030][ 60]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.15-12.42.56:030][ 60]LogContentValidation: Enabled validators:
+[2025.07.15-12.42.56:030][ 60]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.15-12.42.56:030][ 60]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.15-12.42.56:030][ 60]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.15-12.42.56:030][ 60]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.15-12.42.56:030][ 60]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.15-12.42.56:030][ 60]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.15-12.42.56:030][ 60]AssetCheck: /Game/_Teale/Blueprints/HackAndSlash/BP_HaSCharacter Validating asset
+[2025.07.15-12.42.57:659][139]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.15-12.42.57:665][139]LogContentBundle: [ThirdPersonMap(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.07.15-12.42.57:665][139]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.07.15-12.42.57:665][139]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 495 us (total: 88.345 ms)
+[2025.07.15-12.42.57:666][139]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.15-12.42.57:666][139]LogPlayLevel: Display: Creating online subsystem for client :Context_44
+[2025.07.15-12.42.57:669][139]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2025.07.15-12.42.57:685][140]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.07.15-12.42.57:690][140]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.07.15-12.42.57:691][140]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 988 us (total: 14.670 ms)
+[2025.07.15-12.42.57:691][140]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005916s)
+[2025.07.15-12.42.57:691][140]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005986s)
+[2025.07.15-12.42.57:728][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.07.15-12.42.57:738][140]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.07.15-12.42.57:741][140]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.07.15-12.42.57:741][140]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.07.15-12.42.57:741][140]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.07.15-12.42.57:741][140]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.07.15-12.42.57:741][140]LogWorldPartition: Display: WorldPartition initialize took 1.102 ms (total: 2.08 sec)
+[2025.07.15-12.42.57:741][140]LogPlayLevel: PIE: World Init took: (0.003878s)
+[2025.07.15-12.42.57:742][140]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2025.07.15-12.42.57:742][140]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.15-12.42.57:742][140]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.15-12.42.57:742][140]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.15-12.42.57:742][140]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.15-12.42.57:742][140]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.15-12.42.57:742][140]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.15-12.42.57:742][140]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.15-12.42.57:742][140]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.15-12.42.57:742][140]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.15-12.42.57:742][140]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.15-12.42.57:742][140]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.15-12.42.57:745][140]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.15-12.42.57:787][140]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.07.15-12.42.57:789][140]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.15-12.42.57:789][140]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.15-12.42.57:789][140]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.15-12.42.57:790][140]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2025.07.15-12.42.57:790][140]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2025.07.15-12.42.57:792][140]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2025.07.15-12.42.57:792][140]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2025.07.15-12.42.57:792][140]LogInit: FAudioDevice initialized with ID 20.
+[2025.07.15-12.42.57:792][140]LogAudio: Display: Audio Device (ID: 20) registered with world 'ThirdPersonMap'.
+[2025.07.15-12.42.57:792][140]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2025.07.15-12.42.57:796][140]LogLoad: Game class is 'GM_HackAndSlash_C'
+[2025.07.15-12.42.57:797][140]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.07.15-13.42.57
+[2025.07.15-12.42.57:798][140]LogWorld: Bringing up level for play took: 0.000987
+[2025.07.15-12.42.57:803][140]LogBlueprintUserMessages: [Dungeon_Generator_C_UAID_C87F54EB7F73115B02_1740853584] 13333
+[2025.07.15-12.42.57:805][140]PIE: Server logged in
+[2025.07.15-12.42.57:807][140]PIE: Play in editor total start time 0.142 seconds.
+[2025.07.15-12.42.58:598][175]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.42.58:598][175]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.42.58:598][175]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.42.58:598][175]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.42.58:600][175]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.42.58:600][175]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.42.58:600][175]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.42.58:601][175]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.42.58:601][175]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.42.58:601][175]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.42.58:601][175]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.42.58:601][175]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.42.58:603][175]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.42.58:604][175]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.42.58:604][175]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.42.58:604][175]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.42.58:604][175]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.42.58:604][175]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.42.58:919][175]LogBlueprintUserMessages: [Dungeon_Generator_C_UAID_C87F54EB7F73115B02_1740853584] DUNGEON COMPLETE
+[2025.07.15-12.43.00:634][238]LogCharacterMovement: Base_Enemy_C_37 is stuck and failed to move! Velocity: X=3.71 Y=64.28 Z=0.00 Location: X=-2784.01 Y=3002.84 Z=139.04 Normal: X=0.00 Y=0.00 Z=-1.00 PenetrationDepth:38.600 Actor:Door_C_10 Component:Cube BoneName:None (0 other events since notify)
+[2025.07.15-12.43.01:634][277]LogCharacterMovement: Base_Enemy_C_37 is stuck and failed to move! Velocity: X=45.76 Y=598.25 Z=0.00 Location: X=-2784.01 Y=3023.11 Z=139.04 Normal: X=0.00 Y=1.00 Z=0.00 PenetrationDepth:25.893 Actor:Door_C_10 Component:Cube BoneName:None (37 other events since notify)
+[2025.07.15-12.43.02:447][308]LogCharacterMovement: Base_Enemy_C_28 is stuck and failed to move! Velocity: X=199.99 Y=57.91 Z=0.00 Location: X=-892.69 Y=5000.18 Z=139.02 Normal: X=0.00 Y=0.00 Z=-1.00 PenetrationDepth:15.023 Actor:Door_C_6 Component:Cube BoneName:None (0 other events since notify)
+[2025.07.15-12.43.04:602][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.15-12.43.04:603][387]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.07.15-12.43.04:603][387]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.07.15-12.43.04:605][387]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.07.15-12.43.04:613][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.15-12.43.04:613][387]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.07.15-12.43.04:616][387]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.15-12.43.04:628][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.15-12.43.04:664][387]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.15-12.43.04:667][387]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2025.07.15-12.43.04:667][387]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=4
+[2025.07.15-12.43.04:669][387]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=2
+[2025.07.15-12.43.04:675][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.15-12.43.04:697][387]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.07.15-12.43.04:753][388]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2025.07.15-12.43.24:285][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.07.15-12.43.24:412][512]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.15-12.43.24:500][512]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Teale/Blueprints/HackAndSlash/BP_HaSCharacter] ([2] browsable assets)...
+[2025.07.15-12.43.24:587][512]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Teale/Blueprints/HackAndSlash/BP_HaSCharacter.BP_HaSCharacter]
+[2025.07.15-12.43.24:587][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Teale/Blueprints/HackAndSlash/BP_HaSCharacter]
+[2025.07.15-12.43.24:654][512]LogSavePackage: Moving output files for package: /Game/_Teale/Blueprints/HackAndSlash/BP_HaSCharacter
+[2025.07.15-12.43.24:654][512]LogSavePackage: Moving '../../../../../../Users/barne/Documents/GitHub/SummerProject-Project_X/SummerProject_PX 5.6/Saved/BP_HaSCharacter808CD9AD46024B5E7FFA8F984DC70632.tmp' to '../../../../../../Users/barne/Documents/GitHub/SummerProject-Project_X/SummerProject_PX 5.6/Content/_Teale/Blueprints/HackAndSlash/BP_HaSCharacter.uasset'
+[2025.07.15-12.43.24:668][512]LogFileHelpers: InternalPromptForCheckoutAndSave took 256.614 ms (total: 7.53 sec)
+[2025.07.15-12.43.24:758][512]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.15-12.43.24:758][512]LogContentValidation: Enabled validators:
+[2025.07.15-12.43.24:758][512]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.15-12.43.24:758][512]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.15-12.43.24:758][512]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.15-12.43.24:758][512]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.15-12.43.24:758][512]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.15-12.43.24:758][512]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.15-12.43.24:758][512]AssetCheck: /Game/_Teale/Blueprints/HackAndSlash/BP_HaSCharacter Validating asset
+[2025.07.15-12.43.26:440][594]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.15-12.43.26:446][594]LogContentBundle: [ThirdPersonMap(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.07.15-12.43.26:446][594]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.07.15-12.43.26:447][594]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 532 us (total: 88.878 ms)
+[2025.07.15-12.43.26:447][594]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.15-12.43.26:447][594]LogPlayLevel: Display: Creating online subsystem for client :Context_45
+[2025.07.15-12.43.26:449][594]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2025.07.15-12.43.26:464][595]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.07.15-12.43.26:469][595]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.07.15-12.43.26:469][595]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 631 us (total: 15.301 ms)
+[2025.07.15-12.43.26:470][595]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005746s)
+[2025.07.15-12.43.26:470][595]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005799s)
+[2025.07.15-12.43.26:508][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.07.15-12.43.26:516][595]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.07.15-12.43.26:518][595]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.07.15-12.43.26:518][595]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.07.15-12.43.26:518][595]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.07.15-12.43.26:518][595]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.07.15-12.43.26:519][595]LogWorldPartition: Display: WorldPartition initialize took 1.058 ms (total: 2.08 sec)
+[2025.07.15-12.43.26:519][595]LogPlayLevel: PIE: World Init took: (0.003108s)
+[2025.07.15-12.43.26:520][595]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2025.07.15-12.43.26:520][595]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.15-12.43.26:520][595]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.15-12.43.26:520][595]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.15-12.43.26:520][595]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.15-12.43.26:520][595]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.15-12.43.26:520][595]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.15-12.43.26:520][595]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.15-12.43.26:520][595]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.15-12.43.26:520][595]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.15-12.43.26:520][595]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.15-12.43.26:520][595]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.15-12.43.26:522][595]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.15-12.43.26:563][595]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.07.15-12.43.26:563][595]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.15-12.43.26:563][595]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.15-12.43.26:563][595]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.15-12.43.26:564][595]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2025.07.15-12.43.26:564][595]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2025.07.15-12.43.26:567][595]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2025.07.15-12.43.26:567][595]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2025.07.15-12.43.26:567][595]LogInit: FAudioDevice initialized with ID 21.
+[2025.07.15-12.43.26:567][595]LogAudio: Display: Audio Device (ID: 21) registered with world 'ThirdPersonMap'.
+[2025.07.15-12.43.26:567][595]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2025.07.15-12.43.26:571][595]LogLoad: Game class is 'GM_HackAndSlash_C'
+[2025.07.15-12.43.26:572][595]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.07.15-13.43.26
+[2025.07.15-12.43.26:572][595]LogWorld: Bringing up level for play took: 0.000930
+[2025.07.15-12.43.26:578][595]LogBlueprintUserMessages: [Dungeon_Generator_C_UAID_C87F54EB7F73115B02_1740853584] 13333
+[2025.07.15-12.43.26:580][595]PIE: Server logged in
+[2025.07.15-12.43.26:582][595]PIE: Play in editor total start time 0.137 seconds.
+[2025.07.15-12.43.27:326][630]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.43.27:326][630]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.43.27:326][630]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.43.27:326][630]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.43.27:328][630]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.43.27:328][630]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.43.27:328][630]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.43.27:329][630]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.43.27:329][630]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.43.27:329][630]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.43.27:329][630]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.43.27:329][630]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.43.27:331][630]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.43.27:331][630]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.43.27:331][630]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.43.27:331][630]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.43.27:331][630]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.43.27:331][630]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.43.27:639][630]LogBlueprintUserMessages: [Dungeon_Generator_C_UAID_C87F54EB7F73115B02_1740853584] DUNGEON COMPLETE
+[2025.07.15-12.43.28:690][671]LogBlueprintUserMessages: [BP_HaSCharacter_C_0] Hello
+[2025.07.15-12.43.29:140][688]LogBlueprintUserMessages: [BP_HaSCharacter_C_0] Hello
+[2025.07.15-12.43.29:425][699]LogCharacterMovement: Base_Enemy_C_24 is stuck and failed to move! Velocity: X=32.00 Y=45.87 Z=0.00 Location: X=-1992.18 Y=3929.23 Z=139.02 Normal: X=0.00 Y=0.00 Z=-1.00 PenetrationDepth:22.594 Actor:Door_C_9 Component:Cube BoneName:None (0 other events since notify)
+[2025.07.15-12.43.29:623][707]LogBlueprintUserMessages: [BP_HaSCharacter_C_0] Hello
+[2025.07.15-12.43.29:846][716]LogBlueprintUserMessages: [BP_HaSCharacter_C_0] Hello
+[2025.07.15-12.43.30:045][724]LogBlueprintUserMessages: [BP_HaSCharacter_C_0] Hello
+[2025.07.15-12.43.30:174][729]LogBlueprintUserMessages: [BP_HaSCharacter_C_0] Hello
+[2025.07.15-12.43.30:324][735]LogBlueprintUserMessages: [BP_HaSCharacter_C_0] Hello
+[2025.07.15-12.43.30:858][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.15-12.43.30:858][754]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.07.15-12.43.30:858][754]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.07.15-12.43.30:860][754]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.07.15-12.43.30:869][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.15-12.43.30:869][754]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.07.15-12.43.30:872][754]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.15-12.43.30:880][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.15-12.43.30:918][754]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.15-12.43.30:921][754]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2025.07.15-12.43.30:921][754]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=4
+[2025.07.15-12.43.30:923][754]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=2
+[2025.07.15-12.43.30:931][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.15-12.43.30:952][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.07.15-12.43.30:991][755]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2025.07.15-12.45.17:322][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.07.15-12.45.17:447][836]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.15-12.45.17:530][836]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Teale/Blueprints/HackAndSlash/BP_HaSCharacter] ([2] browsable assets)...
+[2025.07.15-12.45.17:619][836]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Teale/Blueprints/HackAndSlash/BP_HaSCharacter.BP_HaSCharacter]
+[2025.07.15-12.45.17:619][836]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Teale/Blueprints/HackAndSlash/BP_HaSCharacter]
+[2025.07.15-12.45.17:698][836]LogSavePackage: Moving output files for package: /Game/_Teale/Blueprints/HackAndSlash/BP_HaSCharacter
+[2025.07.15-12.45.17:699][836]LogSavePackage: Moving '../../../../../../Users/barne/Documents/GitHub/SummerProject-Project_X/SummerProject_PX 5.6/Saved/BP_HaSCharacter7634E2AD4AA4E3C7D3D63FBDD3E8B330.tmp' to '../../../../../../Users/barne/Documents/GitHub/SummerProject-Project_X/SummerProject_PX 5.6/Content/_Teale/Blueprints/HackAndSlash/BP_HaSCharacter.uasset'
+[2025.07.15-12.45.17:710][836]LogFileHelpers: InternalPromptForCheckoutAndSave took 263.522 ms (total: 7.80 sec)
+[2025.07.15-12.45.17:802][836]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.15-12.45.17:802][836]LogContentValidation: Enabled validators:
+[2025.07.15-12.45.17:802][836]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.15-12.45.17:802][836]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.15-12.45.17:802][836]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.15-12.45.17:802][836]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.15-12.45.17:802][836]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.15-12.45.17:802][836]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.15-12.45.17:802][836]AssetCheck: /Game/_Teale/Blueprints/HackAndSlash/BP_HaSCharacter Validating asset
+[2025.07.15-12.45.19:662][931]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.15-12.45.19:668][931]LogContentBundle: [ThirdPersonMap(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.07.15-12.45.19:668][931]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.07.15-12.45.19:668][931]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 525 us (total: 89.403 ms)
+[2025.07.15-12.45.19:668][931]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.15-12.45.19:669][931]LogPlayLevel: Display: Creating online subsystem for client :Context_46
+[2025.07.15-12.45.19:671][931]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2025.07.15-12.45.19:687][932]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.07.15-12.45.19:693][932]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.07.15-12.45.19:693][932]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 518 us (total: 15.819 ms)
+[2025.07.15-12.45.19:693][932]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005522s)
+[2025.07.15-12.45.19:693][932]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005571s)
+[2025.07.15-12.45.19:730][932]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2025.07.15-12.45.19:739][932]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.07.15-12.45.19:740][932]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.07.15-12.45.19:740][932]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.07.15-12.45.19:740][932]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.07.15-12.45.19:740][932]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.07.15-12.45.19:741][932]LogWorldPartition: Display: WorldPartition initialize took 1.043 ms (total: 2.08 sec)
+[2025.07.15-12.45.19:741][932]LogPlayLevel: PIE: World Init took: (0.003113s)
+[2025.07.15-12.45.19:742][932]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2025.07.15-12.45.19:742][932]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.15-12.45.19:742][932]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.15-12.45.19:743][932]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.15-12.45.19:743][932]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.15-12.45.19:743][932]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.15-12.45.19:743][932]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.15-12.45.19:743][932]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.15-12.45.19:743][932]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.15-12.45.19:743][932]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.15-12.45.19:743][932]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.15-12.45.19:743][932]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.15-12.45.19:746][932]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.15-12.45.19:786][932]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.07.15-12.45.19:786][932]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.15-12.45.19:786][932]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.15-12.45.19:786][932]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.15-12.45.19:787][932]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2025.07.15-12.45.19:787][932]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2025.07.15-12.45.19:790][932]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2025.07.15-12.45.19:790][932]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2025.07.15-12.45.19:790][932]LogInit: FAudioDevice initialized with ID 22.
+[2025.07.15-12.45.19:790][932]LogAudio: Display: Audio Device (ID: 22) registered with world 'ThirdPersonMap'.
+[2025.07.15-12.45.19:790][932]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2025.07.15-12.45.19:794][932]LogLoad: Game class is 'GM_HackAndSlash_C'
+[2025.07.15-12.45.19:795][932]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.07.15-13.45.19
+[2025.07.15-12.45.19:795][932]LogWorld: Bringing up level for play took: 0.001028
+[2025.07.15-12.45.19:803][932]LogBlueprintUserMessages: [Dungeon_Generator_C_UAID_C87F54EB7F73115B02_1740853584] 13333
+[2025.07.15-12.45.19:804][932]PIE: Server logged in
+[2025.07.15-12.45.19:806][932]PIE: Play in editor total start time 0.139 seconds.
+[2025.07.15-12.45.20:567][967]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.45.20:567][967]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.45.20:567][967]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.45.20:568][967]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.45.20:569][967]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.45.20:569][967]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.45.20:569][967]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.45.20:570][967]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.45.20:570][967]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.45.20:570][967]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.45.20:570][967]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.45.20:570][967]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.45.20:572][967]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.45.20:572][967]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.45.20:572][967]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.45.20:572][967]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.45.20:572][967]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.45.20:572][967]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.45.20:893][967]LogBlueprintUserMessages: [Dungeon_Generator_C_UAID_C87F54EB7F73115B02_1740853584] DUNGEON COMPLETE
+[2025.07.15-12.45.24:086][ 92]LogCharacterMovement: Base_Enemy_C_11 is stuck and failed to move! Velocity: X=32.62 Y=-197.32 Z=0.00 Location: X=805.79 Y=1005.40 Z=139.01 Normal: X=0.00 Y=0.00 Z=-1.00 PenetrationDepth:11.774 Actor:Door_C_2 Component:Cube BoneName:None (0 other events since notify)
+[2025.07.15-12.45.25:917][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.15-12.45.25:917][159]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.07.15-12.45.25:917][159]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.07.15-12.45.25:920][159]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.07.15-12.45.25:929][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.15-12.45.25:929][159]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.07.15-12.45.25:932][159]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.15-12.45.25:943][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.15-12.45.25:977][159]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.15-12.45.25:981][159]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2025.07.15-12.45.25:981][159]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=4
+[2025.07.15-12.45.25:983][159]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=2
+[2025.07.15-12.45.25:989][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.15-12.45.26:012][159]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2025.07.15-12.45.26:052][160]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2025.07.15-12.45.55:250][838]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2025.07.15-12.45.55:378][838]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.15-12.45.55:470][838]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Teale/Blueprints/HackAndSlash/BP_HaSCharacter] ([2] browsable assets)...
+[2025.07.15-12.45.55:559][838]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Teale/Blueprints/HackAndSlash/BP_HaSCharacter.BP_HaSCharacter]
+[2025.07.15-12.45.55:559][838]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Teale/Blueprints/HackAndSlash/BP_HaSCharacter]
+[2025.07.15-12.45.55:628][838]LogSavePackage: Moving output files for package: /Game/_Teale/Blueprints/HackAndSlash/BP_HaSCharacter
+[2025.07.15-12.45.55:629][838]LogSavePackage: Moving '../../../../../../Users/barne/Documents/GitHub/SummerProject-Project_X/SummerProject_PX 5.6/Saved/BP_HaSCharacter69DDDDA6417B73E10329A4B1CA7D9362.tmp' to '../../../../../../Users/barne/Documents/GitHub/SummerProject-Project_X/SummerProject_PX 5.6/Content/_Teale/Blueprints/HackAndSlash/BP_HaSCharacter.uasset'
+[2025.07.15-12.45.55:642][838]LogFileHelpers: InternalPromptForCheckoutAndSave took 263.356 ms (total: 8.06 sec)
+[2025.07.15-12.45.55:735][838]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.15-12.45.55:735][838]LogContentValidation: Enabled validators:
+[2025.07.15-12.45.55:735][838]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.15-12.45.55:735][838]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.15-12.45.55:735][838]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.15-12.45.55:735][838]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.15-12.45.55:735][838]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.15-12.45.55:735][838]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.15-12.45.55:735][838]AssetCheck: /Game/_Teale/Blueprints/HackAndSlash/BP_HaSCharacter Validating asset
+[2025.07.15-12.45.58:745][  0]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.15-12.45.58:757][  0]LogContentBundle: [ThirdPersonMap(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.07.15-12.45.58:757][  0]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.07.15-12.45.58:757][  0]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 509 us (total: 89.913 ms)
+[2025.07.15-12.45.58:758][  0]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.15-12.45.58:779][  0]LogPlayLevel: Display: Creating online subsystem for client :Context_47
+[2025.07.15-12.45.58:782][  0]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2025.07.15-12.45.58:797][  1]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.07.15-12.45.58:802][  1]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.07.15-12.45.58:802][  1]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 668 us (total: 16.487 ms)
+[2025.07.15-12.45.58:803][  1]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005990s)
+[2025.07.15-12.45.58:803][  1]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006043s)
+[2025.07.15-12.45.58:838][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.07.15-12.45.58:850][  1]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.07.15-12.45.58:852][  1]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.07.15-12.45.58:852][  1]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.07.15-12.45.58:852][  1]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.07.15-12.45.58:852][  1]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.07.15-12.45.58:853][  1]LogWorldPartition: Display: WorldPartition initialize took 1.028 ms (total: 2.08 sec)
+[2025.07.15-12.45.58:853][  1]LogPlayLevel: PIE: World Init took: (0.003135s)
+[2025.07.15-12.45.58:854][  1]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2025.07.15-12.45.58:854][  1]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.15-12.45.58:854][  1]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.15-12.45.58:854][  1]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.15-12.45.58:854][  1]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.15-12.45.58:854][  1]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.15-12.45.58:854][  1]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.15-12.45.58:854][  1]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.15-12.45.58:854][  1]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.15-12.45.58:854][  1]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.15-12.45.58:854][  1]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.15-12.45.58:854][  1]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.15-12.45.58:857][  1]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.15-12.45.58:897][  1]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.07.15-12.45.58:898][  1]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.15-12.45.58:898][  1]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.15-12.45.58:898][  1]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.15-12.45.58:898][  1]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2025.07.15-12.45.58:898][  1]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2025.07.15-12.45.58:901][  1]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2025.07.15-12.45.58:901][  1]LogInit: FAudioDevice initialized with ID 23.
+[2025.07.15-12.45.58:901][  1]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2025.07.15-12.45.58:901][  1]LogAudio: Display: Audio Device (ID: 23) registered with world 'ThirdPersonMap'.
+[2025.07.15-12.45.58:901][  1]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2025.07.15-12.45.58:905][  1]LogLoad: Game class is 'GM_HackAndSlash_C'
+[2025.07.15-12.45.58:907][  1]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.07.15-13.45.58
+[2025.07.15-12.45.58:907][  1]LogWorld: Bringing up level for play took: 0.001029
+[2025.07.15-12.45.58:913][  1]LogBlueprintUserMessages: [Dungeon_Generator_C_UAID_C87F54EB7F73115B02_1740853584] 13333
+[2025.07.15-12.45.58:915][  1]PIE: Server logged in
+[2025.07.15-12.45.58:916][  1]PIE: Play in editor total start time 0.16 seconds.
+[2025.07.15-12.45.59:705][ 36]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.45.59:706][ 36]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.45.59:706][ 36]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.45.59:706][ 36]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.45.59:707][ 36]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.45.59:708][ 36]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.45.59:708][ 36]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.45.59:708][ 36]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.45.59:708][ 36]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.45.59:708][ 36]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.45.59:708][ 36]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.45.59:708][ 36]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.45.59:710][ 36]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.45.59:711][ 36]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.45.59:711][ 36]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.45.59:711][ 36]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.45.59:711][ 36]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.45.59:711][ 36]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.46.00:024][ 36]LogBlueprintUserMessages: [Dungeon_Generator_C_UAID_C87F54EB7F73115B02_1740853584] DUNGEON COMPLETE
+[2025.07.15-12.46.04:956][219]LogCharacterMovement: Base_Enemy_C_4 is stuck and failed to move! Velocity: X=-121.92 Y=-118.34 Z=0.00 Location: X=-3067.53 Y=3007.70 Z=139.01 Normal: X=0.00 Y=0.00 Z=-1.00 PenetrationDepth:14.542 Actor:Door_C_10 Component:Cube BoneName:None (0 other events since notify)
+[2025.07.15-12.46.06:167][263]LogCharacterMovement: Base_Enemy_C_48 is stuck and failed to move! Velocity: X=-493.00 Y=-328.48 Z=0.00 Location: X=-1994.25 Y=3882.16 Z=139.02 Normal: X=0.00 Y=0.00 Z=-1.00 PenetrationDepth:21.492 Actor:Door_C_9 Component:Cube BoneName:None (0 other events since notify)
+[2025.07.15-12.46.10:236][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.15-12.46.10:236][413]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.07.15-12.46.10:236][413]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.07.15-12.46.10:239][413]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.07.15-12.46.10:247][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.15-12.46.10:248][413]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.07.15-12.46.10:250][413]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.15-12.46.10:261][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.15-12.46.10:297][413]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.15-12.46.10:300][413]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2025.07.15-12.46.10:300][413]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=4
+[2025.07.15-12.46.10:302][413]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=2
+[2025.07.15-12.46.10:308][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.15-12.46.10:330][413]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2025.07.15-12.46.10:371][414]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2025.07.15-12.47.22:249][725]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.15-12.47.22:254][725]LogContentBundle: [ThirdPersonMap(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.07.15-12.47.22:254][725]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.07.15-12.47.22:255][725]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 564 us (total: 90.477 ms)
+[2025.07.15-12.47.22:255][725]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.15-12.47.22:255][725]LogPlayLevel: Display: Creating online subsystem for client :Context_48
+[2025.07.15-12.47.22:262][725]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2025.07.15-12.47.22:278][726]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.07.15-12.47.22:283][726]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.07.15-12.47.22:284][726]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 535 us (total: 17.023 ms)
+[2025.07.15-12.47.22:284][726]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005422s)
+[2025.07.15-12.47.22:284][726]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005476s)
+[2025.07.15-12.47.22:318][726]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2025.07.15-12.47.22:321][726]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.07.15-12.47.22:323][726]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.07.15-12.47.22:323][726]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.07.15-12.47.22:323][726]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.07.15-12.47.22:323][726]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.07.15-12.47.22:324][726]LogWorldPartition: Display: WorldPartition initialize took 927 us (total: 2.08 sec)
+[2025.07.15-12.47.22:324][726]LogPlayLevel: PIE: World Init took: (0.003056s)
+[2025.07.15-12.47.22:326][726]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2025.07.15-12.47.22:326][726]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.15-12.47.22:326][726]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.15-12.47.22:326][726]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.15-12.47.22:326][726]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.15-12.47.22:326][726]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.15-12.47.22:326][726]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.15-12.47.22:326][726]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.15-12.47.22:326][726]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.15-12.47.22:326][726]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.15-12.47.22:326][726]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.15-12.47.22:326][726]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.15-12.47.22:328][726]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.15-12.47.22:370][726]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.07.15-12.47.22:371][726]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.15-12.47.22:371][726]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.15-12.47.22:371][726]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.15-12.47.22:372][726]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2025.07.15-12.47.22:372][726]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2025.07.15-12.47.22:374][726]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2025.07.15-12.47.22:374][726]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2025.07.15-12.47.22:374][726]LogInit: FAudioDevice initialized with ID 24.
+[2025.07.15-12.47.22:374][726]LogAudio: Display: Audio Device (ID: 24) registered with world 'ThirdPersonMap'.
+[2025.07.15-12.47.22:374][726]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2025.07.15-12.47.22:378][726]LogLoad: Game class is 'GM_HackAndSlash_C'
+[2025.07.15-12.47.22:379][726]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.07.15-13.47.22
+[2025.07.15-12.47.22:379][726]LogWorld: Bringing up level for play took: 0.000956
+[2025.07.15-12.47.22:385][726]LogBlueprintUserMessages: [Dungeon_Generator_C_UAID_C87F54EB7F73115B02_1740853584] 13333
+[2025.07.15-12.47.22:386][726]PIE: Server logged in
+[2025.07.15-12.47.22:389][726]PIE: Play in editor total start time 0.134 seconds.
+[2025.07.15-12.47.23:164][761]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.47.23:165][761]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.47.23:165][761]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.47.23:165][761]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.47.23:166][761]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.47.23:166][761]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.47.23:166][761]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.47.23:167][761]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.47.23:167][761]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.47.23:167][761]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.47.23:167][761]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.47.23:167][761]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.47.23:169][761]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.47.23:169][761]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.47.23:169][761]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.47.23:169][761]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.47.23:169][761]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.47.23:170][761]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.47.23:474][761]LogBlueprintUserMessages: [Dungeon_Generator_C_UAID_C87F54EB7F73115B02_1740853584] DUNGEON COMPLETE
+[2025.07.15-12.47.35:986][223]LogCharacterMovement: Base_Enemy_C_49 is stuck and failed to move! Velocity: X=-46.81 Y=44.38 Z=0.00 Location: X=894.43 Y=469.69 Z=138.08 Normal: X=0.73 Y=-0.05 Z=-0.68 PenetrationDepth:1.802 Actor:BP_HaSCharacter_C_0 Component:Sword BoneName:None (0 other events since notify)
+[2025.07.15-12.47.38:960][333]LogCharacterMovement: Base_Enemy_C_49 is stuck and failed to move! Velocity: X=-14.53 Y=55.21 Z=0.00 Location: X=826.89 Y=510.00 Z=140.15 Normal: X=0.85 Y=0.52 Z=-0.00 PenetrationDepth:0.236 Actor:BP_HaSCharacter_C_0 Component:Sword BoneName:None (1 other events since notify)
+[2025.07.15-12.47.40:751][403]LogCharacterMovement: Base_Enemy_C_2 is stuck and failed to move! Velocity: X=-23.14 Y=-76.18 Z=0.00 Location: X=842.48 Y=625.40 Z=140.15 Normal: X=0.69 Y=-0.72 Z=-0.00 PenetrationDepth:17.617 Actor:BP_HaSCharacter_C_0 Component:Sword BoneName:None (0 other events since notify)
+[2025.07.15-12.47.40:803][405]LogCharacterMovement: Base_Enemy_C_3 is stuck and failed to move! Velocity: X=-88.32 Y=10.15 Z=0.00 Location: X=876.54 Y=567.72 Z=140.15 Normal: X=0.19 Y=-0.98 Z=-0.00 PenetrationDepth:1.769 Actor:BP_HaSCharacter_C_0 Component:Sword BoneName:None (0 other events since notify)
+[2025.07.15-12.47.41:014][413]LogCharacterMovement: Base_Enemy_C_9 is stuck and failed to move! Velocity: X=-584.49 Y=-25.10 Z=0.00 Location: X=10038.77 Y=-1927.63 Z=138.21 Normal: X=0.88 Y=0.00 Z=-0.48 PenetrationDepth:6.892 Actor:Door_C_7 Component:Cube BoneName:None (0 other events since notify)
+[2025.07.15-12.47.41:909][446]LogCharacterMovement: Base_Enemy_C_49 is stuck and failed to move! Velocity: X=52.46 Y=-21.21 Z=0.00 Location: X=855.50 Y=385.08 Z=138.06 Normal: X=-0.65 Y=-0.19 Z=-0.74 PenetrationDepth:3.294 Actor:BP_HaSCharacter_C_0 Component:Sword BoneName:None (4 other events since notify)
+[2025.07.15-12.47.42:160][455]LogCharacterMovement: Base_Enemy_C_42 is stuck and failed to move! Velocity: X=-393.51 Y=452.93 Z=0.00 Location: X=4035.62 Y=-4042.92 Z=138.02 Normal: X=0.61 Y=0.00 Z=-0.79 PenetrationDepth:0.089 Actor:Door_C_1 Component:Cube BoneName:None (0 other events since notify)
+[2025.07.15-12.47.42:795][478]LogCharacterMovement: Base_Enemy_C_11 is stuck and failed to move! Velocity: X=28.03 Y=-198.03 Z=0.00 Location: X=838.34 Y=1040.17 Z=138.14 Normal: X=0.00 Y=0.87 Z=-0.49 PenetrationDepth:5.197 Actor:Door_C_2 Component:Cube BoneName:None (0 other events since notify)
+[2025.07.15-12.47.42:925][483]LogCharacterMovement: Base_Enemy_C_2 is stuck and failed to move! Velocity: X=37.58 Y=-36.77 Z=0.00 Location: X=845.21 Y=460.34 Z=138.29 Normal: X=-0.92 Y=0.28 Z=-0.29 PenetrationDepth:25.980 Actor:BP_HaSCharacter_C_0 Component:Sword BoneName:None (0 other events since notify)
+[2025.07.15-12.47.42:933][483]LogCharacterMovement: Base_Enemy_C_49 is stuck and failed to move! Velocity: X=47.60 Y=22.33 Z=0.00 Location: X=866.64 Y=377.72 Z=140.15 Normal: X=0.92 Y=-0.40 Z=0.00 PenetrationDepth:17.405 Actor:BP_HaSCharacter_C_0 Component:Sword BoneName:None (3 other events since notify)
+[2025.07.15-12.47.43:012][486]LogCharacterMovement: Base_Enemy_C_3 is stuck and failed to move! Velocity: X=19.03 Y=-58.98 Z=0.00 Location: X=912.86 Y=428.35 Z=140.13 Normal: X=0.92 Y=-0.10 Z=-0.37 PenetrationDepth:2.931 Actor:BP_HaSCharacter_C_0 Component:Sword BoneName:None (1 other events since notify)
+[2025.07.15-12.47.45:776][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.15-12.47.45:776][584]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.07.15-12.47.45:776][584]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.07.15-12.47.45:778][584]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.07.15-12.47.45:788][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.15-12.47.45:788][584]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.07.15-12.47.45:791][584]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.15-12.47.45:800][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.15-12.47.45:842][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.15-12.47.45:842][584]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2025.07.15-12.47.45:842][584]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=4
+[2025.07.15-12.47.45:844][584]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=2
+[2025.07.15-12.47.45:873][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.07.15-12.47.45:929][585]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2025.07.15-12.47.50:577][863]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.15-12.47.50:583][863]LogContentBundle: [ThirdPersonMap(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.07.15-12.47.50:583][863]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.07.15-12.47.50:584][863]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 539 us (total: 91.017 ms)
+[2025.07.15-12.47.50:584][863]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.15-12.47.50:607][863]LogPlayLevel: Display: Creating online subsystem for client :Context_49
+[2025.07.15-12.47.50:610][863]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2025.07.15-12.47.50:626][864]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.07.15-12.47.50:631][864]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.07.15-12.47.50:632][864]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 719 us (total: 17.743 ms)
+[2025.07.15-12.47.50:632][864]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005328s)
+[2025.07.15-12.47.50:632][864]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005377s)
+[2025.07.15-12.47.50:666][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.07.15-12.47.50:669][864]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.07.15-12.47.50:671][864]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.07.15-12.47.50:671][864]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.07.15-12.47.50:671][864]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.07.15-12.47.50:671][864]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.07.15-12.47.50:672][864]LogWorldPartition: Display: WorldPartition initialize took 1.771 ms (total: 2.08 sec)
+[2025.07.15-12.47.50:672][864]LogPlayLevel: PIE: World Init took: (0.004001s)
+[2025.07.15-12.47.50:673][864]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2025.07.15-12.47.50:673][864]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.15-12.47.50:673][864]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.15-12.47.50:673][864]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.15-12.47.50:673][864]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.15-12.47.50:673][864]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.15-12.47.50:673][864]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.15-12.47.50:673][864]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.15-12.47.50:673][864]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.15-12.47.50:673][864]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.15-12.47.50:673][864]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.15-12.47.50:673][864]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.15-12.47.50:676][864]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.15-12.47.50:717][864]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.07.15-12.47.50:717][864]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.15-12.47.50:717][864]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.15-12.47.50:717][864]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.15-12.47.50:718][864]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2025.07.15-12.47.50:718][864]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2025.07.15-12.47.50:721][864]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2025.07.15-12.47.50:721][864]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2025.07.15-12.47.50:721][864]LogInit: FAudioDevice initialized with ID 25.
+[2025.07.15-12.47.50:721][864]LogAudio: Display: Audio Device (ID: 25) registered with world 'ThirdPersonMap'.
+[2025.07.15-12.47.50:721][864]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2025.07.15-12.47.50:725][864]LogLoad: Game class is 'GM_HackAndSlash_C'
+[2025.07.15-12.47.50:726][864]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.07.15-13.47.50
+[2025.07.15-12.47.50:726][864]LogWorld: Bringing up level for play took: 0.000950
+[2025.07.15-12.47.50:733][864]LogBlueprintUserMessages: [Dungeon_Generator_C_UAID_C87F54EB7F73115B02_1740853584] 13333
+[2025.07.15-12.47.50:734][864]PIE: Server logged in
+[2025.07.15-12.47.50:735][864]PIE: Play in editor total start time 0.153 seconds.
+[2025.07.15-12.47.51:483][899]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.47.51:484][899]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.47.51:484][899]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.47.51:484][899]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.47.51:486][899]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.47.51:486][899]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.47.51:487][899]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.47.51:487][899]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.47.51:487][899]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.47.51:487][899]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.47.51:487][899]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.47.51:487][899]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.47.51:489][899]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.47.51:490][899]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.47.51:490][899]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.47.51:490][899]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.47.51:490][899]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.47.51:490][899]LogScript: Warning: UGameplayStatics::BeginDeferredActorSpawnFromClass: can not spawn an actor from a NULL class
+[2025.07.15-12.47.51:791][899]LogBlueprintUserMessages: [Dungeon_Generator_C_UAID_C87F54EB7F73115B02_1740853584] DUNGEON COMPLETE
+[2025.07.15-12.47.55:823][ 43]LogCharacterMovement: Base_Enemy_C_22 is stuck and failed to move! Velocity: X=-595.58 Y=72.71 Z=0.00 Location: X=-2011.65 Y=4201.48 Z=138.22 Normal: X=0.00 Y=0.00 Z=-1.00 PenetrationDepth:1.844 Actor:Door_C_9 Component:Cube BoneName:None (0 other events since notify)
+[2025.07.15-12.47.56:686][ 75]LogCharacterMovement: Base_Enemy_C_11 is stuck and failed to move! Velocity: X=-106.27 Y=-169.43 Z=0.00 Location: X=891.40 Y=1003.37 Z=138.78 Normal: X=0.00 Y=0.00 Z=-1.00 PenetrationDepth:7.586 Actor:Door_C_2 Component:Cube BoneName:None (0 other events since notify)
+[2025.07.15-12.48.00:414][219]LogCharacterMovement: Base_Enemy_C_4 is stuck and failed to move! Velocity: X=143.06 Y=-15.45 Z=0.00 Location: X=-2046.19 Y=3801.63 Z=139.74 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:2.805 Actor:Door_C_9 Component:Cube BoneName:None (0 other events since notify)
+[2025.07.15-12.48.03:046][320]LogCharacterMovement: Base_Enemy_C_4 is stuck and failed to move! Velocity: X=108.02 Y=19.82 Z=0.00 Location: X=-1993.43 Y=3796.68 Z=139.03 Normal: X=0.00 Y=0.00 Z=-1.00 PenetrationDepth:27.614 Actor:Door_C_9 Component:Cube BoneName:None (4 other events since notify)
+[2025.07.15-12.48.05:259][404]LogCharacterMovement: Base_Enemy_C_4 is stuck and failed to move! Velocity: X=54.24 Y=8.31 Z=0.00 Location: X=-1993.43 Y=3797.33 Z=139.03 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:42.434 Actor:Door_C_9 Component:Cube BoneName:None (3 other events since notify)
+[2025.07.15-12.48.05:859][427]LogCharacterMovement: Base_Enemy_C_49 is stuck and failed to move! Velocity: X=64.47 Y=-35.94 Z=0.00 Location: X=912.35 Y=457.25 Z=140.15 Normal: X=0.68 Y=0.74 Z=-0.00 PenetrationDepth:22.440 Actor:BP_HaSCharacter_C_0 Component:Sword BoneName:None (0 other events since notify)
+[2025.07.15-12.48.05:907][429]LogCharacterMovement: Base_Enemy_C_11 is stuck and failed to move! Velocity: X=20.29 Y=-49.85 Z=0.00 Location: X=980.37 Y=455.75 Z=140.15 Normal: X=0.98 Y=0.20 Z=-0.00 PenetrationDepth:15.859 Actor:BP_HaSCharacter_C_0 Component:Sword BoneName:None (6 other events since notify)
+[2025.07.15-12.48.05:910][429]LogCharacterMovement: Base_Enemy_C_36 is stuck and failed to move! Velocity: X=-9.64 Y=-52.95 Z=0.00 Location: X=4776.95 Y=-4978.73 Z=140.15 Normal: X=-0.00 Y=0.31 Z=-0.95 PenetrationDepth:13.643 Actor:Door_C_5 Component:Cube BoneName:None (0 other events since notify)
+[2025.07.15-12.48.05:933][430]LogCharacterMovement: Base_Enemy_C_25 is stuck and failed to move! Velocity: X=-7.10 Y=50.37 Z=0.00 Location: X=4784.01 Y=-5046.46 Z=140.15 Normal: X=0.00 Y=-1.00 Z=0.00 PenetrationDepth:2.542 Actor:Door_C_5 Component:Cube BoneName:None (0 other events since notify)
+[2025.07.15-12.48.06:336][446]LogCharacterMovement: Base_Enemy_C_4 is stuck and failed to move! Velocity: X=50.55 Y=7.90 Z=0.00 Location: X=-1993.42 Y=3797.28 Z=138.39 Normal: X=0.00 Y=0.00 Z=-1.00 PenetrationDepth:3.547 Actor:Door_C_9 Component:Cube BoneName:None (5 other events since notify)
+[2025.07.15-12.48.08:404][523]LogCharacterMovement: Base_Enemy_C_4 is stuck and failed to move! Velocity: X=-63.57 Y=-1.30 Z=0.00 Location: X=-1996.64 Y=3784.06 Z=139.03 Normal: X=0.00 Y=0.00 Z=-1.00 PenetrationDepth:33.524 Actor:Door_C_9 Component:Cube BoneName:None (4 other events since notify)
+[2025.07.15-12.48.09:971][581]LogCharacterMovement: Base_Enemy_C_4 is stuck and failed to move! Velocity: X=-54.87 Y=-1.11 Z=0.00 Location: X=-1999.29 Y=3784.00 Z=139.01 Normal: X=0.00 Y=0.00 Z=-1.00 PenetrationDepth:13.442 Actor:Door_C_9 Component:Cube BoneName:None (1 other events since notify)
+[2025.07.15-12.48.09:974][581]LogCharacterMovement: Base_Enemy_C_24 is stuck and failed to move! Velocity: X=45.29 Y=-50.36 Z=0.00 Location: X=-2005.75 Y=3851.72 Z=139.01 Normal: X=0.00 Y=0.00 Z=-1.00 PenetrationDepth:13.442 Actor:Door_C_9 Component:Cube BoneName:None (0 other events since notify)
+[2025.07.15-12.48.11:060][620]LogCharacterMovement: Base_Enemy_C_36 is stuck and failed to move! Velocity: X=-11.30 Y=55.05 Z=0.00 Location: X=4776.95 Y=-4978.72 Z=140.15 Normal: X=-0.00 Y=0.35 Z=-0.94 PenetrationDepth:15.991 Actor:Door_C_5 Component:Cube BoneName:None (25 other events since notify)
+[2025.07.15-12.48.11:087][621]LogCharacterMovement: Base_Enemy_C_25 is stuck and failed to move! Velocity: X=-8.31 Y=-56.79 Z=0.00 Location: X=4784.01 Y=-5046.44 Z=140.15 Normal: X=0.00 Y=-1.00 Z=0.00 PenetrationDepth:2.555 Actor:Door_C_5 Component:Cube BoneName:None (21 other events since notify)
+[2025.07.15-12.48.11:461][634]LogCharacterMovement: Base_Enemy_C_41 is stuck and failed to move! Velocity: X=-42.74 Y=33.27 Z=0.00 Location: X=1388.32 Y=539.38 Z=140.15 Normal: X=-0.86 Y=-0.51 Z=0.00 PenetrationDepth:4.960 Actor:BP_HaSCharacter_C_0 Component:Sword BoneName:None (0 other events since notify)
+[2025.07.15-12.48.11:510][636]LogCharacterMovement: Base_Enemy_C_7 is stuck and failed to move! Velocity: X=-3.01 Y=54.95 Z=0.00 Location: X=1352.82 Y=481.29 Z=140.15 Normal: X=-0.95 Y=0.32 Z=0.00 PenetrationDepth:33.598 Actor:BP_HaSCharacter_C_0 Component:Sword BoneName:None (0 other events since notify)
+[2025.07.15-12.48.11:569][638]LogCharacterMovement: Base_Enemy_C_11 is stuck and failed to move! Velocity: X=28.69 Y=51.64 Z=0.00 Location: X=1320.30 Y=541.13 Z=140.15 Normal: X=0.31 Y=-0.95 Z=-0.00 PenetrationDepth:25.883 Actor:BP_HaSCharacter_C_0 Component:Sword BoneName:None (1 other events since notify)
+[2025.07.15-12.48.11:745][644]LogCharacterMovement: Base_Enemy_C_24 is stuck and failed to move! Velocity: X=45.70 Y=-51.27 Z=0.00 Location: X=-2008.75 Y=3846.18 Z=139.02 Normal: X=0.00 Y=0.00 Z=-1.00 PenetrationDepth:18.416 Actor:Door_C_9 Component:Cube BoneName:None (1 other events since notify)
+[2025.07.15-12.48.11:804][646]LogCharacterMovement: Base_Enemy_C_49 is stuck and failed to move! Velocity: X=-1.33 Y=-57.68 Z=0.00 Location: X=1445.55 Y=670.65 Z=140.15 Normal: X=0.94 Y=-0.34 Z=0.00 PenetrationDepth:19.344 Actor:BP_HaSCharacter_C_0 Component:Sword BoneName:None (0 other events since notify)
+[2025.07.15-12.48.12:062][655]LogCharacterMovement: Base_Enemy_C_36 is stuck and failed to move! Velocity: X=-120.54 Y=587.77 Z=0.00 Location: X=4776.94 Y=-4978.72 Z=140.15 Normal: X=-0.00 Y=1.00 Z=0.00 PenetrationDepth:27.722 Actor:Door_C_5 Component:Cube BoneName:None (34 other events since notify)
+[2025.07.15-12.48.12:113][657]LogCharacterMovement: Base_Enemy_C_25 is stuck and failed to move! Velocity: X=-86.90 Y=-593.67 Z=0.00 Location: X=4784.01 Y=-5046.44 Z=140.15 Normal: X=0.00 Y=-1.00 Z=0.00 PenetrationDepth:2.555 Actor:Door_C_5 Component:Cube BoneName:None (35 other events since notify)
+[2025.07.15-12.48.13:074][691]LogCharacterMovement: Base_Enemy_C_36 is stuck and failed to move! Velocity: X=-120.54 Y=587.77 Z=0.00 Location: X=4776.94 Y=-4978.72 Z=140.15 Normal: X=-0.00 Y=1.00 Z=0.00 PenetrationDepth:27.722 Actor:Door_C_5 Component:Cube BoneName:None (35 other events since notify)
+[2025.07.15-12.48.13:127][693]LogCharacterMovement: Base_Enemy_C_25 is stuck and failed to move! Velocity: X=-83.79 Y=594.12 Z=0.00 Location: X=4784.01 Y=-5046.44 Z=140.15 Normal: X=0.00 Y=-1.00 Z=0.00 PenetrationDepth:2.555 Actor:Door_C_5 Component:Cube BoneName:None (35 other events since notify)
+[2025.07.15-12.48.13:423][704]LogCharacterMovement: Base_Enemy_C_23 is stuck and failed to move! Velocity: X=20.37 Y=101.95 Z=0.00 Location: X=1582.37 Y=486.15 Z=140.15 Normal: X=-0.88 Y=-0.47 Z=0.00 PenetrationDepth:2.926 Actor:BP_HaSCharacter_C_0 Component:Sword BoneName:None (0 other events since notify)
+[2025.07.15-12.48.13:453][705]LogCharacterMovement: Base_Enemy_C_41 is stuck and failed to move! Velocity: X=98.31 Y=174.17 Z=0.00 Location: X=1531.75 Y=532.79 Z=140.15 Normal: X=-0.75 Y=-0.67 Z=0.00 PenetrationDepth:1.857 Actor:BP_HaSCharacter_C_0 Component:Sword BoneName:None (1 other events since notify)
+[2025.07.15-12.48.13:580][710]LogCharacterMovement: Base_Enemy_C_4 is stuck and failed to move! Velocity: X=-276.93 Y=-161.81 Z=0.00 Location: X=-2923.09 Y=3042.49 Z=138.06 Normal: X=0.00 Y=0.81 Z=-0.59 PenetrationDepth:0.061 Actor:Door_C_10 Component:Cube BoneName:None (20 other events since notify)
+[2025.07.15-12.48.13:609][711]LogCharacterMovement: Base_Enemy_C_17 is stuck and failed to move! Velocity: X=22.44 Y=230.31 Z=0.00 Location: X=-2793.07 Y=2955.20 Z=138.05 Normal: X=0.00 Y=-0.89 Z=-0.45 PenetrationDepth:0.627 Actor:Door_C_10 Component:Cube BoneName:None (0 other events since notify)
+[2025.07.15-12.48.13:611][711]LogCharacterMovement: Base_Enemy_C_28 is stuck and failed to move! Velocity: X=-66.26 Y=-286.95 Z=0.00 Location: X=-2818.34 Y=3044.96 Z=138.05 Normal: X=0.00 Y=0.89 Z=-0.45 PenetrationDepth:0.481 Actor:Door_C_10 Component:Cube BoneName:None (0 other events since notify)
+[2025.07.15-12.48.13:638][712]LogCharacterMovement: Base_Enemy_C_24 is stuck and failed to move! Velocity: X=110.17 Y=-0.46 Z=0.00 Location: X=-2032.00 Y=3800.23 Z=138.66 Normal: X=-0.65 Y=0.00 Z=-0.76 PenetrationDepth:7.760 Actor:Door_C_9 Component:Cube BoneName:None (0 other events since notify)
+[2025.07.15-12.48.13:640][712]LogCharacterMovement: Base_Enemy_C_38 is stuck and failed to move! Velocity: X=-110.17 Y=0.43 Z=0.00 Location: X=-1963.88 Y=3799.96 Z=138.17 Normal: X=0.72 Y=-0.00 Z=-0.70 PenetrationDepth:4.581 Actor:Door_C_9 Component:Cube BoneName:None (0 other events since notify)
+[2025.07.15-12.48.14:098][729]LogCharacterMovement: Base_Enemy_C_36 is stuck and failed to move! Velocity: X=-120.54 Y=587.77 Z=0.00 Location: X=4776.94 Y=-4978.72 Z=140.15 Normal: X=-0.00 Y=1.00 Z=0.00 PenetrationDepth:27.722 Actor:Door_C_5 Component:Cube BoneName:None (37 other events since notify)
+[2025.07.15-12.48.14:129][730]LogCharacterMovement: Base_Enemy_C_25 is stuck and failed to move! Velocity: X=-83.79 Y=594.12 Z=0.00 Location: X=4784.01 Y=-5046.44 Z=140.15 Normal: X=0.00 Y=-1.00 Z=0.00 PenetrationDepth:2.555 Actor:Door_C_5 Component:Cube BoneName:None (36 other events since notify)
+[2025.07.15-12.48.14:595][747]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4727.005371
+[2025.07.15-12.48.14:774][754]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.15-12.48.14:774][754]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4727.159668, Update Interval: 300.151978
+[2025.07.15-12.48.14:886][759]LogCharacterMovement: Base_Enemy_C_23 is stuck and failed to move! Velocity: X=-22.27 Y=48.67 Z=0.00 Location: X=1611.62 Y=516.87 Z=140.15 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:22.989 Actor:BP_HaSCharacter_C_0 Component:Sword BoneName:None (3 other events since notify)
+[2025.07.15-12.48.14:886][759]LogCharacterMovement: Base_Enemy_C_29 is stuck and failed to move! Velocity: X=30.94 Y=101.21 Z=0.00 Location: X=1582.83 Y=454.98 Z=140.15 Normal: X=-0.99 Y=0.12 Z=0.00 PenetrationDepth:2.002 Actor:BP_HaSCharacter_C_0 Component:Sword BoneName:None (0 other events since notify)
+[2025.07.15-12.48.14:943][761]LogCharacterMovement: Base_Enemy_C_41 is stuck and failed to move! Velocity: X=84.70 Y=42.33 Z=0.00 Location: X=1552.28 Y=548.19 Z=140.15 Normal: X=-0.56 Y=0.83 Z=-0.00 PenetrationDepth:15.577 Actor:BP_HaSCharacter_C_0 Component:Sword BoneName:None (1 other events since notify)
+[2025.07.15-12.48.15:103][767]LogCharacterMovement: Base_Enemy_C_49 is stuck and failed to move! Velocity: X=54.20 Y=15.47 Z=0.00 Location: X=1550.25 Y=627.57 Z=140.15 Normal: X=-0.53 Y=0.85 Z=0.00 PenetrationDepth:8.983 Actor:BP_HaSCharacter_C_0 Component:Sword BoneName:None (0 other events since notify)
+[2025.07.15-12.48.15:357][777]LogCharacterMovement: Base_Enemy_C_22 is stuck and failed to move! Velocity: X=457.90 Y=387.73 Z=0.00 Location: X=-3085.03 Y=2971.82 Z=138.49 Normal: X=-0.00 Y=-0.46 Z=-0.89 PenetrationDepth:5.328 Actor:Door_C_10 Component:Cube BoneName:None (6 other events since notify)
+[2025.07.15-12.48.17:168][846]LogCharacterMovement: Base_Enemy_C_24 is stuck and failed to move! Velocity: X=52.58 Y=-0.00 Z=0.00 Location: X=-2031.97 Y=3800.00 Z=138.22 Normal: X=-0.58 Y=0.00 Z=-0.82 PenetrationDepth:4.592 Actor:Door_C_9 Component:Cube BoneName:None (5 other events since notify)
+[2025.07.15-12.48.17:764][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.15-12.48.17:764][866]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.07.15-12.48.17:764][866]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.07.15-12.48.17:768][866]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.07.15-12.48.17:776][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.15-12.48.17:777][866]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.07.15-12.48.17:779][866]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.15-12.48.17:791][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.15-12.48.17:835][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.15-12.48.17:835][866]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2025.07.15-12.48.17:836][866]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=4
+[2025.07.15-12.48.17:838][866]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=2
+[2025.07.15-12.48.17:867][866]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2025.07.15-12.48.17:907][867]LogPlayLevel: Display: Destroying online subsystem :Context_49
