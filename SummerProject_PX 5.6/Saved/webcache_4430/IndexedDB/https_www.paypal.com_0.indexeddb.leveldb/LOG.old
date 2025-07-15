@@ -1,0 +1,15 @@
+2025/06/18-15:49:05.267 4864 Reusing MANIFEST C:/GitHub/SummerProject-Project_X/SummerProject_PX/Saved/webcache_4430\IndexedDB\https_www.paypal.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/18-15:49:05.268 4864 Recovering log #14
+2025/06/18-15:49:05.268 4864 Reusing old log C:/GitHub/SummerProject-Project_X/SummerProject_PX/Saved/webcache_4430\IndexedDB\https_www.paypal.com_0.indexeddb.leveldb/000014.log 
+2025/06/18-15:49:07.315 8d4 Level-0 table #19: started
+2025/06/18-15:49:07.318 8d4 Level-0 table #19: 542 bytes OK
+2025/06/18-15:49:07.322 8d4 Delete type=0 #14
+2025/06/18-15:49:07.322 8d4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/06/18-15:49:07.322 8d4 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x1f\x01\x04\x00d\x00_\x00i\x00d\x00\x01\x04\x00d\x00_\x00i\x00d' @ 110 : 1
+2025/06/18-15:49:07.322 8d4 Compacting 1@1 + 1@2 files
+2025/06/18-15:49:07.325 8d4 Generated table #20@1: 24 keys, 633 bytes
+2025/06/18-15:49:07.325 8d4 Compacted 1@1 + 1@2 files => 633 bytes
+2025/06/18-15:49:07.326 8d4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/06/18-15:49:07.327 8d4 Delete type=2 #16
+2025/06/18-15:49:07.327 8d4 Delete type=2 #19
+2025/06/18-15:49:07.327 8d4 Manual compaction at level-1 from '\x00\x01\x01\x1f\x01\x04\x00d\x00_\x00i\x00d\x00\x01\x04\x00d\x00_\x00i\x00d' @ 110 : 1 .. (end); will stop at (end)
