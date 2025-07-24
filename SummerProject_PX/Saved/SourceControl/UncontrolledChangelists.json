@@ -5019,6 +5019,8 @@
 				"C:/Documents/Unreal Projects/SummerProject-Project_X/SummerProject_PX/Content/_Teale/Blueprints/Enemy/BehaviourTree/Tasks/BTTask_Strafe.uasset",
 				"C:/Documents/Unreal Projects/SummerProject-Project_X/SummerProject_PX/Content/_Teale/Blueprints/Enemy/BehaviourTree/Tasks/BTTask_SetFocus.uasset",
 				"C:/Documents/Unreal Projects/SummerProject-Project_X/SummerProject_PX/Content/_Teale/Blueprints/Enemy/BehaviourTree/Tasks/BTTask_ClearFocus.uasset",
+				"C:/Documents/Unreal Projects/SummerProject-Project_X/SummerProject_PX/Content/_Teale/Blueprints/Enemy/BP_EnemySpawner.uasset",
+				"C:/Documents/Unreal Projects/SummerProject-Project_X/SummerProject_PX/Content/_Teale/Blueprints/Enemy/Struct/STR_EnemySpawnQuantity.uasset",
 				"C:/Documents/Unreal Projects/SummerProject-Project_X/SummerProject_PX/Content/_Teale/Blueprints/Animations/AnimationMontages/Hurt+Death/AM_Enemy_FR.uasset",
 				"C:/Documents/Unreal Projects/SummerProject-Project_X/SummerProject_PX/Content/_Teale/Blueprints/Animations/AnimationMontages/Hurt+Death/AM_Enemy_Death.uasset",
 				"C:/Documents/Unreal Projects/SummerProject-Project_X/SummerProject_PX/Content/_Teale/Blueprints/Animations/AnimationMontages/Hurt+Death/AM_Enemy_M.uasset",
