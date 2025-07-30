@@ -1,2 +1,3 @@
-2025/07/02-11:32:46.157 1cf4 Creating DB C:/Users/barne/Documents/GitHub/SummerProject-Project_X/SummerProject_PX/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2025/07/02-11:32:46.172 1cf4 Reusing MANIFEST C:/Users/barne/Documents/GitHub/SummerProject-Project_X/SummerProject_PX/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/07/24-00:29:29.286 6064 Reusing MANIFEST C:/Documents/Unreal Projects/SummerProject-Project_X/SummerProject_PX/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/07/24-00:29:29.289 6064 Recovering log #3
+2025/07/24-00:29:29.289 6064 Reusing old log C:/Documents/Unreal Projects/SummerProject-Project_X/SummerProject_PX/Saved/webcache_4430\Local Storage\leveldb/000003.log 
