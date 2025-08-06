@@ -1,3 +1,2 @@
-2025/07/24-01:44:13.825 1f68 Reusing MANIFEST C:/Documents/Unreal Projects/SummerProject-Project_X/SummerProject_PX/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2025/07/24-01:44:13.827 1f68 Recovering log #3
-2025/07/24-01:44:13.827 1f68 Reusing old log C:/Documents/Unreal Projects/SummerProject-Project_X/SummerProject_PX/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2025/08/06-17:30:33.696 5ed0 Creating DB C:/Users/corey/Documents/GitHub/SummerProject_PX/SummerProject_PX/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2025/08/06-17:30:33.707 5ed0 Reusing MANIFEST C:/Users/corey/Documents/GitHub/SummerProject_PX/SummerProject_PX/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
